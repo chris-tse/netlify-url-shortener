@@ -1,0 +1,10 @@
+{
+  "name": "netlify-url-shortener",
+  "version": "1.0.0",
+  "description": "Personal URL shortener based on Kent C. Dodd's package",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.4"
+  }
+}
