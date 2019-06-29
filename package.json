@@ -4,7 +4,7 @@
   "description": "Personal URL shortener based on Kent C. Dodd's package",
   "main": "index.js",
   "license": "MIT",
-  "baseUrl": "https://ct.dev",
+  "baseUrl": "https://ctse.dev",
   "scripts": {
     "shorten": "netlify-shortener"
   },
